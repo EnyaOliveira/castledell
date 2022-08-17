@@ -9,7 +9,7 @@
 ## Nome do grupo
 
 ## Integrantes: 
- -https://www.linkedin.com/in/vitor-santos-851408196/
+- <a href="https://www.linkedin.com/in/vitor-santos-851408196/Vitor Hugo Rodrigues dos Santos</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
