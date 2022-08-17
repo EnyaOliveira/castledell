@@ -9,12 +9,12 @@
 ## Nome do grupo
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
+ -https://www.linkedin.com/in/vitor-santos-851408196/
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
+ef="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
 
 ## 📝 Descrição
