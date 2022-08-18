@@ -12,10 +12,10 @@
 - <a href="https://www.linkedin.com/in/giuliano-bontempo-domiciano-5b5766212/">Enya Oliveira Arruda</a>
 - <a href="https://www.linkedin.com/in/fabio-piemonte-823a65211/">Fabio Piemonte Lopes</a>
 - <a href="https://www.linkedin.com/in/giuliano-bontempo-domiciano-5b5766212/">Giuliano Bontempo Domiciano</a>
-- <a href="https://www.linkedin.com/in/luis-miranda-137566139/"Luis Carlos Miranda Junior</a>
+- <a href="https://www.linkedin.com/in/luis-miranda-137566139/">Luis Carlos Miranda Junior</a>
 - <a href="https://www.linkedin.com/in/marcelo-maia-b90b03231/">Marcelo Maia Fernandes Filho</a>
 - <a href="https://www.linkedin.com/in/mauricio-felicissimo-475024240/">Mauricio Trapnell Felicissimo</a> 
-- < a href="https://www.linkedin.com/in/raab-iane-787659247/">Raab Iane Assunção Silva</a>  
+- <a href="https://www.linkedin.com/in/raab-iane-787659247/">Raab Iane Assunção Silva</a>  
 - <a href="https://www.linkedin.com/in/vitor-santos-851408196/">Vitor Hugo Rodrigues dos Santos</a>
 
 ## 📝 Descrição
